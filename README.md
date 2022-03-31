@@ -10,7 +10,7 @@ I started with VBA for Excel while trying to automatize time consuming tasks and
 - 🌱 I’m currently having fun with circuit boards (Arduino & Raspberry Pi Pico)
 - I'm going through the fundamentals course of @TheOdinProject using my Raspberry Pi 4
 
-Learning algorithms is a great way to find new solutions to our everyday problems.
+Learning algorithms is a great way to find new solutions to my everyday problems.
 
 <!---
 intGus/intGus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
