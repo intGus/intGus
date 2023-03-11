@@ -6,7 +6,7 @@ I'm a filmmaker and a hobbyist programmer. Create stuff that someone can enjoy, 
 
 I started with VBA for Excel while trying to automatize time consuming tasks and that led me to Python. My next motivation is making my own portfolio website.
 
-- 👀 I’m interested in Python, JavaScript, and C++
+- 👀 I’m interested in Javascript, Python and C++
 - 🌱 I’m currently having fun with circuit boards (Arduino & Raspberry Pi Pico)
 - I'm going through the fundamentals course of @TheOdinProject using my Raspberry Pi 4
 
