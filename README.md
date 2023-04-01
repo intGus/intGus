@@ -2,7 +2,7 @@ Hi there! I’m Gustavo
 
 <!---links--->
 
-I'm a filmmaker and a hobbyist programmer. Create stuff that someone can enjoy, even myself, is my passion and that applies for filmmaking and programming.
+I'm a [filmmaker](https://vimeo.com/704772213) and a hobbyist programmer. Create things that me or anyone else can enjoy is my passion and that applies for filmmaking and programming.
 
 I started with VBA for Excel while trying to automatize time consuming tasks and that led me to Python. My next motivation is making my own portfolio website.
 
